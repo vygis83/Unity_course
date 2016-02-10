@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Block Breaker\Assets\Scripts\LoseCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Block Breaker\Assets\Scripts\Brick.cs">
     <Files>
-      <File FileName="..\Block Breaker\Assets\Scripts\LoseCollider.cs" Line="14" Column="1" />
+      <File FileName="..\Block Breaker\Assets\Scripts\Brick.cs" Line="8" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
